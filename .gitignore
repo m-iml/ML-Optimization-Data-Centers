@@ -1,0 +1,38 @@
+# Byte compiled / cached
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Step 1 / Step 2 / Step 3 outputs from the notebooks
+step1_artifacts_random/
+step2_*.csv
+step3_*.csv
+step3_diagnostics/
+*.pkl
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+*~

@@ -1,0 +1,17 @@
+# Versions pinned to match the runs reported in the paper.
+# Loosen if needed for newer Python; LightGBM and scikit-learn API
+# changes are the most likely sources of friction.
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+lightgbm==4.6.0
+threadpoolctl>=3.5.0
+matplotlib==3.8.4
+seaborn==0.13.2
+openpyxl>=3.1.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional, used for some EDA figures and Q-Q plots
+scipy>=1.11.0

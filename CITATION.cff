@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Machine Learning Guided Cooling Optimization for Data Centers"
+message: "If you use this software or the results from the paper, please cite it as below."
+type: software
+authors:
+  - given-names: Shrenik
+    family-names: Jadhav
+    affiliation: "University of Michigan-Dearborn"
+    orcid: "https://orcid.org/0009-0003-6906-7465"
+  - given-names: Zheng
+    family-names: Liu
+    affiliation: "University of Michigan-Dearborn"
+    orcid: "https://orcid.org/0000-0003-4869-8893"
+repository-code: "https://github.com/m-iml/ML-Optimization-Data-Centers"
+url: "https://arxiv.org/abs/2601.02275"
+license: MIT
+keywords:
+  - data center cooling
+  - exascale computing
+  - physics guided machine learning
+  - LightGBM
+  - counterfactual evaluation
+  - PUE optimization
+  - Frontier supercomputer
+preferred-citation:
+  type: conference-paper
+  title: "Machine Learning Guided Cooling Optimization for Data Centers"
+  authors:
+    - given-names: Shrenik
+      family-names: Jadhav
+      orcid: "https://orcid.org/0009-0003-6906-7465"
+    - given-names: Zheng
+      family-names: Liu
+      orcid: "https://orcid.org/0000-0003-4869-8893"
+  collection-title: "Proc. IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITHERM)"
+  year: 2026
+  url: "https://arxiv.org/abs/2601.02275"
+  notes: "arXiv:2601.02275"
