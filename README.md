@@ -142,10 +142,6 @@ If you use the code or results here, please cite the paper:
 }
 ```
 
-## Acknowledgments
-
-The Frontier HPC & Facility Data workbook is courtesy of Grant et al. and the Oak Ridge Leadership Computing Facility. Their open release of high resolution operational telemetry is what made this work possible. Frontier is a U.S. Department of Energy Office of Science user facility operated by Oak Ridge National Laboratory.
-
 ## Authors
 
 - **Shrenik Jadhav**, Department of Computer and Information Science, University of Michigan-Dearborn ([ORCID](https://orcid.org/0009-0003-6906-7465))
