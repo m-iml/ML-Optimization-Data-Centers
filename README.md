@@ -1,6 +1,6 @@
 <div align="center">
 
-# Machine Learning Guided Cooling Optimization for Data Centers
+# Machine Learning Guided Cooling System Optimization for Data Centers
 
 A three stage, physics guided ML pipeline that finds wasted cooling energy in an exascale supercomputer and recommends safe, small setpoint tweaks to recover it.
 
@@ -132,13 +132,13 @@ If you use the code or results here, please cite the paper:
 
 ```bibtex
 @inproceedings{jadhav2026ml,
-  title     = {Machine Learning Guided Cooling Optimization for Data Centers},
+  title     = {Machine Learning Guided Cooling System Optimization for Data Centers},
   author    = {Jadhav, Shrenik and Liu, Zheng},
-  booktitle = {Proc. IEEE Intersociety Conference on Thermal and Thermomechanical
-               Phenomena in Electronic Systems (ITHERM)},
+  booktitle = {2026 25th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)},
   year      = {2026},
   note      = {arXiv:2601.02275},
-  url       = {https://arxiv.org/abs/2601.02275}
+  url       = {https://arxiv.org/abs/2601.02275},
+  organization = {IEEE}
 }
 ```
 
@@ -151,7 +151,7 @@ The Frontier HPC & Facility Data workbook is courtesy of Grant et al. and the Oa
 - **Shrenik Jadhav**, Department of Computer and Information Science, University of Michigan-Dearborn ([ORCID](https://orcid.org/0009-0003-6906-7465))
 - **Zheng Liu**, Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn ([ORCID](https://orcid.org/0000-0003-4869-8893))
 
-Questions, bug reports, and PRs are all welcome. Open an issue or reach out directly.
+Questions and bug reports are welcome. Open an issue or reach out directly to Zheng Liu (zhengtl #at umich.edu).
 
 ## License
 
