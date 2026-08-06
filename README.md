@@ -8,7 +8,7 @@ A three stage, physics guided ML pipeline that finds wasted cooling energy in an
 [![arXiv](https://img.shields.io/badge/arXiv-2601.02275-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.02275)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-2ea44f?style=flat-square)](https://lightgbm.readthedocs.io)
-[![License: CC BY-NC-SA 4.0]([https://img.shields.io/badge/License-MIT-yellow?style=flat-square](https://creativecommons.org/licenses/by-nc-sa/4.0/))](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 </div>
 
