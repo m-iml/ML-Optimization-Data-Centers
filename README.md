@@ -68,7 +68,7 @@ The whole thing is designed to be the kind of recommendation an operator could a
 │   └── README.md                                      Data dictionary and provenance
 ├── requirements.txt                                   Pinned versions used in the paper
 ├── CITATION.cff                                       For the "Cite this repository" button
-├── LICENSE                                            MIT
+├── LICENSE                                            CC BY-NC-SA 4.0
 └── README.md
 ```
 
@@ -155,4 +155,4 @@ Questions, bug reports, and PRs are all welcome. Open an issue or reach out dire
 
 ## License
 
-Code and notebooks are released under the [MIT License](LICENSE). The Frontier HPC & Facility Data is redistributed under the same CC license used by the original figshare deposit; see [`data/README.md`](data/README.md) for details.
+Code and notebooks are released under the CC BY-NC-SA 4.0. The Frontier HPC & Facility Data is redistributed under the same CC license used by the original figshare deposit; see [`data/README.md`](data/README.md) for details.
