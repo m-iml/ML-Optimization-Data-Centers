@@ -147,7 +147,7 @@ If you use the code or results here, please cite the paper:
 - **Shrenik Jadhav**, Department of Computer and Information Science, University of Michigan-Dearborn ([ORCID](https://orcid.org/0009-0003-6906-7465))
 - **Zheng Liu**, Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn ([ORCID](https://orcid.org/0000-0003-4869-8893))
 
-Questions and bug reports are welcome. Please reach out directly to Zheng Liu (zhengtl #at umich.edu).
+Questions and bug reports are welcome. Please reach out directly to Prof. Zheng Liu (zhengtl #at umich.edu).
 
 ## License
 
