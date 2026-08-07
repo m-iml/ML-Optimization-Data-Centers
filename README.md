@@ -134,7 +134,7 @@ If you use the code or results here, please cite the paper:
 
 ```bibtex
 @inproceedings{jadhav2026ml,
-  title     = {Machine Learning Guided Cooling System Optimization for Data Centers},
+  title     = {Machine Learning Guided Cooling System Optimization for Data Center},
   author    = {Jadhav, Shrenik and Liu, Zheng},
   booktitle = {2026 25th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)},
   year      = {2026},
