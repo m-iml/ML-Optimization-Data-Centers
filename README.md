@@ -2,6 +2,8 @@
 
 # Machine Learning Guided Cooling System Optimization for Data Centers
 
+Won Prof. Avram Bar-Cohen Best Paper Award in the Data Centers Thermal Management track at 2026 IEEE ITherm.
+
 A three stage, physics guided ML pipeline that finds wasted cooling energy in an exascale supercomputer and recommends safe, small setpoint tweaks to recover it.
 
 [![Paper](https://img.shields.io/badge/Paper-ITHERM%202026-1f6feb?style=flat-square)](paper/ITHERM2026_paper.pdf)
