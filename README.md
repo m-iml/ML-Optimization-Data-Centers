@@ -1,6 +1,6 @@
 <div align="center">
 
-# Machine Learning Guided Cooling System Optimization for Data Centers
+# Machine Learning Guided Cooling System Optimization for Data Center
 
 Won Prof. Avram Bar-Cohen Best Paper Award in the Data Centers Thermal Management track at 2026 IEEE ITherm.
 
